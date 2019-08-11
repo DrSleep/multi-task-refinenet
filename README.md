@@ -35,7 +35,9 @@ After that, navigate to the repository folder and choose any of the examples giv
 
 Once time permits, more things will be added to this repository:
 
-* Training and evaluation examples
+* ~~Training and evaluation examples~~ please refer to this [repository](https://github.com/DrSleep/DenseTorch/tree/master/examples/multitask).
+
+
 
 ## More projects to check out
 
