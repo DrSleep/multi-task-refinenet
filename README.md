@@ -1,5 +1,10 @@
 # Real-Time Joint Semantic Segmentation, Depth and Surface Normals Estimation (in PyTorch)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/real-time-joint-semantic-segmentation-and/semantic-segmentation-on-nyu-depth-v2)](https://paperswithcode.com/sota/semantic-segmentation-on-nyu-depth-v2?p=real-time-joint-semantic-segmentation-and)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/real-time-joint-semantic-segmentation-and/real-time-semantic-segmentation-on-nyu-depth-1)](https://paperswithcode.com/sota/real-time-semantic-segmentation-on-nyu-depth-1?p=real-time-joint-semantic-segmentation-and)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/real-time-joint-semantic-segmentation-and/monocular-depth-estimation-on-nyu-depth-v2)](https://paperswithcode.com/sota/monocular-depth-estimation-on-nyu-depth-v2?p=real-time-joint-semantic-segmentation-and)
+
+
 This repository provides official models from the paper `Real-Time Joint Semantic Segmentation and Depth Estimation Using Asymmetric Annotations`, available [here](https://arxiv.org/abs/1809.04766)
 
 ```
